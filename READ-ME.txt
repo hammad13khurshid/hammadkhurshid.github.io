@@ -1,0 +1,11 @@
+  =>  Template Name    : Responsive CV template (HTML, CSS, JS) by Hammad Khurshid
+
+  =>  Template Link    : 
+
+  =>  Template License : This template is strictly licensed to limited peeps only. @Copyright Hammad Khurshid
+
+  =>  Template Author  : Hammad Khurshid
+
+  =>  Author Website   : https://hammadkhurshid.engineer
+
+  =>  About Author : Hammad Khurshid is a Software Engineer and a Frontend developer currently working as a Frontend Developer at Upwork, Creating innovative solutions for businesses online. (https://hammadkhurshid.engineer)
